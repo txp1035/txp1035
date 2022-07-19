@@ -1,12 +1,16 @@
 <p align="center"> 
-	<span><img src="https://img.shields.io/badge/DaoYuan1035--_.svg?style=social&logo=wechat" alt="微信"></span>	
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/txp1035/count.svg" />
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=txp1035&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 a Web Developer.
 
 - 🏠 Blog https://blog.imtxp1035.cn/
 - 🚀 Focus on Web and Efficiency
   - TypeScript, Node.js
-- 📫 How to reach me: [Email](imtxp1035@gmail.com)
+- 📫 How to reach me:   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/txp1035/txp1035/master/assets/WeChat.jpg" />
+ 
+ 
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=txp1035&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=txp1035&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
