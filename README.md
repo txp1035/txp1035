@@ -1,16 +1,12 @@
-### Hi there 👋
-WeChat: DaoYuan1035
-<!--
-**txp1035/txp1035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+	<span><img src="https://img.shields.io/badge/DaoYuan1035--_.svg?style=social&logo=wechat" alt="微信"></span>	
+</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=txp1035&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+a Web Developer.
+
+- 🏠 Blog https://blog.imtxp1035.cn/
+- 🚀 Focus on Web and Efficiency
+  - TypeScript, Node.js
+- 📫 How to reach me: [Email](imtxp1035@gmail.com)
