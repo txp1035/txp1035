@@ -5,7 +5,7 @@
 
 a Web Developer.
 
-- 🏠 Blog https://blog.imtxp1035.cn/
+- 🏠 Blog https://blog.imtxp.cn/
 - 🚀 Focus on Web and Efficiency
   - TypeScript, Node.js
 - 📧 txp1035@gmail.com
