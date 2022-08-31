@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/txp1035/count.svg" />
-</p>
-
 a Web Developer.
 
 - 🏠 Blog https://blog.imtxp.cn/
