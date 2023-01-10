@@ -1,14 +1,11 @@
-Hi there 👋
-I'm TangXiaoPing (道源) .
+**Hi there** 👋
 
-🍒 A front-end engineer who enjoys open source and developing software and improvement tools.
+I'm TangXiaoPing(道源).
 
-🍉 [umi](https://github.com/umijs/umi) maintainers member.
-
-🍋 [ThreeReflections](https://tr.imtxp.cn/) author。
-
-📍 成都
-
-🍑 公众号：「道源1035」
+- 🍒 A front-end engineer who enjoys open source and developing software and improvement tools.
+- 🍉 [umi](https://github.com/umijs/umi) maintainers member.
+- 🍋 [ThreeReflections](https://tr.imtxp.cn/) author。
+- 📍 成都
+- 🍑 公众号：「道源1035」
 
 If you have any questions, you can add my wechat「txp1035」 consultation. 
