@@ -8,4 +8,4 @@ I'm DaoYuan.
 - 📍 成都
 <!-- - 💬 公众号:「道源1035」 -->
 
-If you have any questions, you can add my wechat「txp1035」 consultation. 
+<!-- If you have any questions, you can add my wechat「txp1035」 consultation.  -->
